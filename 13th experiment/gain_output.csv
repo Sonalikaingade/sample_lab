@@ -1,0 +1,5 @@
+Attributes,Gain,Gini
+outlook,0.24675,0.342857
+temp,0.0292226,0.440476
+humidity,0.151836,0.367347
+wind,0.048127,0.428571

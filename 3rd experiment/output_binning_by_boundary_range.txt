@@ -1,0 +1,3 @@
+Bin Below 19: 
+Bin 1: 19 22 28 29 33 35 40 48 55 
+Bin Above 60: 60 

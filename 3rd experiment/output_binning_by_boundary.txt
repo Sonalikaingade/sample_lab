@@ -1,0 +1,4 @@
+Bin Below 40: 
+Bin 1: 
+Bin 2: 70 75 78 
+Bin Above 80: 82 85 88 90 92 95 98 

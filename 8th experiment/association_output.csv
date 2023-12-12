@@ -1,0 +1,8 @@
+Association Rule: { I1 I2 I3 } -> {I5 } , Confidence: 50%
+Association Rule: { I1 I2 I5 } -> {I3 } , Confidence: 50%
+Association Rule: { I1 I3 I5 } -> {I2 } , Confidence: 100%
+Association Rule: { I1 I5 } -> {I2 I3 } , Confidence: 50%
+Association Rule: { I2 I3 I5 } -> {I1 } , Confidence: 100%
+Association Rule: { I2 I5 } -> {I1 I3 } , Confidence: 50%
+Association Rule: { I3 I5 } -> {I1 I2 } , Confidence: 100%
+Association Rule: { I5 } -> {I1 I2 I3 } , Confidence: 50%
